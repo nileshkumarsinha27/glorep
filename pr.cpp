@@ -4,4 +4,7 @@ void main()
   int a=100;
   cout<<"\n"<<a;
   cout<<100;
+int c;
+c=a++;
+cout<<c;
 }
